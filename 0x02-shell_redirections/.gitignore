@@ -5,3 +5,5 @@ ls_cwd_content
 dir*
 .hidden
 list
+*.gif
+An\ Acrostic
