@@ -17,3 +17,5 @@ This is a folder containing the answer files to project 0x03. Shell, init files,
 14. Decimal to Hexadecimal
 15. What happens when you type ls *.c
 16. What is the difference between a hard link and a symbolic link?
+17. Everyone is a proponent of strong encryption 
+18. The eggs of the brood need to be an odd number
