@@ -19,3 +19,4 @@ This is a folder containing the answer files to project 0x03. Shell, init files,
 16. What is the difference between a hard link and a symbolic link?
 17. Everyone is a proponent of strong encryption 
 18. The eggs of the brood need to be an odd number
+19. I'm an instant star. Just add water and stir. 
