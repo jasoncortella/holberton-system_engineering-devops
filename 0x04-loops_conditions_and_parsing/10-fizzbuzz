@@ -1,5 +1,5 @@
 #!/usr/bin/env bash
-
+#displays numbers from 1 to 100 with classic fizzbuzz exceptions
 i=1
 while (( i<=100 )); do
     if ! (( i%15 )); then

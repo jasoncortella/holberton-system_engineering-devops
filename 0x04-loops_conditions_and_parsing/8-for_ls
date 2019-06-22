@@ -1,5 +1,5 @@
 #!/usr/bin/env bash
-
+#displays files in current directory without the "[number]-"
 for f in *; do
   echo "$f" | cut -d'-' -f2
 done

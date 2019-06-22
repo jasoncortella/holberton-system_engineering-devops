@@ -1,5 +1,5 @@
 #!/usr/bin/env bash
-
+#displays the content of the file /etc/passwd
 input="/etc/passwd"
 while IFS= read -r line
 do

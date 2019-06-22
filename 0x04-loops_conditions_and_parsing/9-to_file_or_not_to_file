@@ -1,5 +1,5 @@
 #!/usr/bin/env bash
-
+#gives you information about the holbertonschool file
 if [ -e holbertonschool ]; then
     echo holbertonschool file exists
     if [ -s holbertonschool ]; then

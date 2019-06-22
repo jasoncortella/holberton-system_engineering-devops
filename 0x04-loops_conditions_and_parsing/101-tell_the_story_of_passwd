@@ -1,5 +1,5 @@
 #!/usr/bin/env bash
-
+#displays the content of the file /etc/passwd with a story
 input="/etc/passwd"
 IFS=:
 while read -r one two three four five six seven

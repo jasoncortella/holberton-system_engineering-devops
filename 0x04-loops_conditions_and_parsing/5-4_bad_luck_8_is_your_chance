@@ -1,5 +1,5 @@
 #!/usr/bin/env bash
-
+#displays Holberton School 10 times, with exceptions on line 4 and 8
 i=1
 while [ $i -lt 11 ]; do
     if [ $i -eq 4 ]
