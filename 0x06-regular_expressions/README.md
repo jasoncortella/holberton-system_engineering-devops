@@ -51,5 +51,5 @@
 * Parses this [log file](http://intranet-projects-files.s3.amazonaws.com/holbertonschool-sysadmin_devops/78/text_messages.log)
 * File: 100-textme.rb
 ### 9. Pass LinkedIn technical interview level0
-* Practice by completeing (LinkedIn regex puzzle)[https://engineering.linkedin.com/puzzle]
+* Practice by completeing [LinkedIn regex puzzle](https://engineering.linkedin.com/puzzle)
 * File: 101-passed_linkedin_regex_challenge.jpg
