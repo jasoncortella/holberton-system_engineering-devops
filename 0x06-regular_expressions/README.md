@@ -1,5 +1,5 @@
 # 0x06. Regular expression
-## This directory contains answer files to [Holberton School](https://www.holbertonschool.com/) devops project 0x05
+## This directory contains answer files to [Holberton School](https://www.holbertonschool.com/) devops project 0x06
 
 ### 0. Simply matching Holberton
 * File: 0-simply_match_holberton.rb
