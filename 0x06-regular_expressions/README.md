@@ -42,7 +42,7 @@
   * Example `./6-phone_number.rb 4155049898 | cat -e`
     * `4155049898`
   * Example `./6-phone_number.rb "415 504 9898" | cat -e`
-    * ``
+    *
 ### 7. OMG WHY ARE YOU SHOUTING?
 * File: 7-OMG_WHY_ARE_YOU_SHOUTING.rb
 * Using regex...
