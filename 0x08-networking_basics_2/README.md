@@ -1,6 +1,5 @@
 # 0x08. Networking basics 1
-## This directory contains answer files to [Holberton School](https://w\
-ww.holbertonschool.com/) devops project 0x08
+## This directory contains answer files to [Holberton School](https://www.holbertonschool.com/) devops project 0x08
 
 ### 0. Localhost
 * File: 0-localhost
