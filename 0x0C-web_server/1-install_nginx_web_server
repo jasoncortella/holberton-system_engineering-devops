@@ -5,6 +5,7 @@
 
 apt-get -y update
 apt-get -y install nginx
-ufw allow 80
+ufw allow 'Nginx HTTP'
+# nginx listens to port 80 by default
 echo 'Holberton School' > /var/www/html/index.html
 service nginx start
