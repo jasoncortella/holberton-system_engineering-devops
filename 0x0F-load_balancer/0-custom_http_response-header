@@ -1,0 +1,14 @@
+#!/usr/bin/env bash
+# Bash script that installs Nginx
+
+apt-get update
+apt-get install -y nginx
+
+path="/etc/nginx/sites-enabled"
+echo "server {
+     location / {
+         add_header X-Served-By $HOSTNAME;
+     }
+}" > "$path/default"
+
+service nginx restart
