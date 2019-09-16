@@ -1,12 +1,12 @@
 #!/usr/bin/python3
 """returns TODO list progress info for a given employee ID"""
-import sys
+from sys import argv
 import requests
 
 
 if __name__ == "__main__":
     url = "https://jsonplaceholder.typicode.com/"
-    uid = sys.argv[1]
+    uid = argv[1]
     user = requests.get("{}users/{}".format(url, uid)).json()
     todos = requests.get("{}todos".format(url), params={"userId": uid}).json()
     done = [task.get("title") for task in todos if task.get("completed")]
