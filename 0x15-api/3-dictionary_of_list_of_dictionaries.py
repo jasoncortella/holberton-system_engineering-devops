@@ -3,10 +3,10 @@
 import requests
 import json
 
-url = "https://jsonplaceholder.typicode.com/"
-users = requests.get("{}users".format(url)).json()
 
 if __name__ == "__main__":
+    url = "https://jsonplaceholder.typicode.com/"
+    users = requests.get("{}users".format(url)).json()
     with open("todo_all_employees.json", "w", newline="") as jsonfile:
         xx = {}
         for user in users:
