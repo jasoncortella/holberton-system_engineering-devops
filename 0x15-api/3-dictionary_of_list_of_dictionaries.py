@@ -1,7 +1,7 @@
 #!/usr/bin/python3
 """Exports TODO list progress info for a given employee ID to JSON"""
-import requests
 import json
+import requests
 
 
 if __name__ == "__main__":
